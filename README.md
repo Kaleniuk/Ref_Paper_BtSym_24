@@ -12,8 +12,7 @@ acoustic methods for impact damage assessment of composite structures. Compos. S
 using ultrasonic techniques. IOP Conf. Ser. Mater. Sci. Eng. 2017, 263, 052029.
 
 4. Mei, H.; Haider, M.F.; Joseph, R.; Migot, A.; Giurgiutiu, V. Recent advances in piezoelectric
-wafer active sensors for structural health monitoring applications. Sensors 2019, 19,
-383.
+wafer active sensors for structural health monitoring applications. Sensors 2019, 19, 383.
 
 5.  D. Worlton, Experimental Confirmation of Lamb Waves at Megacycle Frequencies, Journal
 of Applied Physics 32(6), 967 (1961), https://doi.org/10.1063/1.1736196
