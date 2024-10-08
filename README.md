@@ -15,7 +15,7 @@ using ultrasonic techniques. IOP Conf. Ser. Mater. Sci. Eng. 2017, 263, 052029.
 wafer active sensors for structural health monitoring applications. Sensors 2019, 19,
 383.
 
-5. D. Worlton, Experimental Confirmation of Lamb Waves at Megacycle Frequencies, Journal
+5.  D. Worlton, Experimental Confirmation of Lamb Waves at Megacycle Frequencies, Journal
 of Applied Physics 32(6), 967 (1961), https://doi.org/10.1063/1.1736196
 
 6. X. Qing, W. Li, Y. Wang, H. Sun, Piezoelectric Transducer-Based Structural Health Monitoring
